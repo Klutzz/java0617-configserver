@@ -17,7 +17,7 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:10087/eureka, http://localhost:10086/eureka
-version: UserProvider01-777
+version: UserProvider01-777777
 management:
   endpoints:  
     web:
